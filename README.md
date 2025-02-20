@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Stanislav!
 
-<!--
-**stanislavkrk/stanislavkrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about **machine learning**, **data science**, and **Python development**. I'm constantly exploring **AI-driven solutions** and optimizing models for **real-world applications**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 **What I'm Working On:**
+
+- **Software Development:** Writing efficient and clean **Python** code.  
+- **Data Science:** Proficient in **pandas**, **numpy**, **matplotlib**, and **feature engineering**.  
+- **Automation:** Skilled in **web scraping**, **data pipelines**, and **task optimization**.  
+- **Machine Learning & AI:** Experienced with **scikit-learn**, **TensorFlow**, and **PyTorch**.  
+- **Neural Networks:** Building custom models and fine-tuning architectures from scratch.
+
+---
+
+### 🤝 **Open to Collaborations:**  
+If you're looking for a dedicated **ML** and **Python** enthusiast for your next challenging project — let's connect!
+
+📩 **Reach me at:** [email](mailto:stanislavkrk@gmail.com)
