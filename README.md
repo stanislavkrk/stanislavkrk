@@ -4,7 +4,7 @@ Passionate about **machine learning**, **data science**, and **Python developmen
 
 ---
 
-### 💻 **What I'm Working On:**
+### 🎬 **What I'm Working On:**
 
 - **Software Development:** Writing efficient and clean **Python** code.  
 - **Data Science:** Proficient in **pandas**, **numpy**, **matplotlib**, and **feature engineering**.  
