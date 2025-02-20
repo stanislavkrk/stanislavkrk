@@ -14,7 +14,7 @@ Passionate about **machine learning**, **data science**, and **Python developmen
 
 ---
 
-### 🤝 **Open to Collaborations:**  
+### 📝 **Open to Collaborations:**  
 If you're looking for a dedicated **ML** and **Python** enthusiast for your next challenging project — let's connect!
 
-📩 **Reach me at:** [email](mailto:stanislavkrk@gmail.com)
+**Reach me at:** [email](mailto:stanislavkrk@gmail.com)
