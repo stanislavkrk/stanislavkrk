@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Stanislav!
+# 👋 Hey there!
 
-Passionate about **machine learning**, **data science**, and **Python development**. I'm constantly exploring **AI-driven solutions** and optimizing models for **real-world applications**.
+### About me
+Inspired by **machine learning**, **data science**, and **Python development**. I'm constantly exploring **AI-driven solutions** and optimizing models for **real-world applications**.
 
 ---
 
